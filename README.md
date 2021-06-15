@@ -29,6 +29,10 @@ __
 | 3.  |	| Muhammad Adjie Bimaditya || G64190062 || Front End Engineer |
 | 4.  |	| Yusuf Pradnya Darpita    || G64190049 || Front End Engineer |
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 __
 ## About PlantZo
