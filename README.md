@@ -56,12 +56,12 @@ User kami melingkupi seluruh masyarakat yang tertarik dalam dunia tanaman teruta
 
 ### Spesifikasi Teknis Pengembang
 - Software
-...Framework : React, Tailwind
+Framework : React, Tailwind
 Database : MySQL
 Server : Apache
 Text Editor/IDE : Visual Studio Code
 - Hardware
-...Processor : minimal 1 GHz
+Processor : minimal 1 GHz
 RAM : 1 GB
 Graphic Card : DirectX 9 dengan drive WDDM 1.0
 - Tech Stack
@@ -71,7 +71,7 @@ Teknologi : CSS/HTML, javascript, dan python
 __
 ## User Analysis
 - User Story
-Need-to-develop:
+- Need-to-develop:
 1. Sebagai pengguna awal, agar dapat menggunakan aplikasi dengan lebih leluasa, saya dapat mendaftarkan diri dengan memasukan username, email, dan password.
 2. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal dan data pengguna tetap tersimpan, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
 3. Sebagai pengguna yang terdaftar, agar dapat mengeluarkan akun, saya dapat keluar dari aplikasi web.
@@ -82,7 +82,7 @@ Need-to-develop:
 8. Sebagai pembeli yang terdaftar, agar dapat melakukan pembayaran, saya dapat memilih media pembayaran.
 9. Sebagai penjual yang telah terdaftar, agar dapat menambahkan barang dagangan, saya dapat memasukan data ke dalam toko.
 
-Nice-to-develop:
+- Nice-to-develop:
 1. Sebagai pembeli yang terdaftar, agar dapat menemukan barang yang sesuai, saya dapat mengetikan nama barang dalam aplikasi.
 2. Sebagai pengguna yang terdaftar, agar dapat berkomunikasi antara pembeli atau penjual, saya dapat mengirimkan pesan secara langsung.
 3. Sebagai pengguna yang terdaftar, agar dapat melihat barang yang terurut dengan kriteria tertentu, saya dapat melakukan filterisasi
