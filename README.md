@@ -139,6 +139,7 @@ Feature and Page maybe (img)
 __
 ## Testing (Test Case)
 - Positive Case
+
 | Scenario | Prequisite	| Steps | Expected Result | Actual Result | Status |
 | -------- | ---------- | ----- | --------------- | ------------- | ------ |
 | User mendaftar dengan data yang valid | User mengakses website | User mengakses halaman login, akses halaman daftar, lakukan pendaftaran dengan memasukkan nama, email, password, klik daftar | Pendaftaran berhasil, user dialihkan ke halaman dashboard | As expected | Pass✅ |
@@ -147,12 +148,13 @@ __
 | User membayar tagihan di cart	| User telah login dan mengakses halaman cart | User mencentang produk yang ingin dibeli dan menekan tombol checkout lalu diarahkan ke halaman checkout dan menekan tombol bayar sekarang | User berhasil membayar produk | As expected | Pass✅|
 | User menghapus product dari cart | User telah login dan mengakses halaman cart | User mengklik tombol hapus pada sebelah product yang ingin dihilangkan dari cart | Produk berhasil dihapus dari cart | As expected | Pass✅|
 | User mengubah alamat tujuan | User sudah login dan mengakses halaman profile | User menekan tombol edit alamat dan memasukan alamat tujuan baru | Alamat berhasil diedit	 | As expected | Pass✅ |
+
 - Negative Case
 
 | Scenario | Prequisite | Steps | Expected Result | Actual Result | Status |
 | -------- | ---------- | ----- | --------------- | ------------- | ------ |
 | User melakukan pendaftaran | User mengakses website | User mengakses website kemudian melakukan pendaftaran hanya mengisikan nama | Terdapat warning yang terjadi karena belum memasukan email dan password | Terjadi error yang tampil pada halaman yang berbeda | Failed❌ |
-| User melakukan check out belanja pada website	User telah login dan memasukkan belanja ke dalam keranjang | User melakukan pembayaran namun tidak memilih jenis pembayaran apa | Terdapat warning karena tidak memilih jenis pembayaran apa | Terjadi error sehingga proses tidak dapat dilanjutkan | Failed❌ |
+| User melakukan check out belanja pada website |	User telah login dan memasukkan belanja ke dalam keranjang | User melakukan pembayaran namun tidak memilih jenis pembayaran apa | Terdapat warning karena tidak memilih jenis pembayaran apa | Terjadi error sehingga proses tidak dapat dilanjutkan | Failed❌ |
 | User mengganti alamat | User telah berada di halaman profile, pengaturan, ganti alamat | User mengganti alamat namun pada kode pos dikosongkan | Terdapat warning karena user tidak boleh mengosongi  kode pos | Terjadi error dan proses pergantian alamat tidak dilanjutkan | Failed❌ |
 
 __
