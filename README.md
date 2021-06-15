@@ -1,7 +1,8 @@
 
+
 __
 ## PlantZo
- 
+![logo](https://user-images.githubusercontent.com/57794579/121979390-4c217300-cdb4-11eb-9d17-8fea0f825136.png)
 
 __
 ## Demo Aplikasi
