@@ -11,14 +11,14 @@ http://plantzo.xyz/
 
 __
 ## Laporan Akhir Projek
-•	KOM 331 | Rekayasa Perangkat Lunak | P2
-•	Kelompok 11
+KOM 331 | Rekayasa Perangkat Lunak | P2
+Kelompok 11
 
 __
 ## Dibimbing oleh :
-•	Levina Siatono G64180019
-•	Ali Naufal Amrullah G64180080
-•	Muhammad Fauzan Ramadhan G64180117
+- Levina Siatono G64180019
+- Ali Naufal Amrullah G64180080
+- Muhammad Fauzan Ramadhan G64180117
 
 __
 ## Tim Pengembang PlantZo
@@ -28,11 +28,6 @@ __
 | 2.  |	 Yuritma Dwi Ardita Putri | G64190048 | Front End Engineer |
 | 3.  |	 Muhammad Adjie Bimaditya | G64190062 | Front End Engineer |
 | 4.  |	 Yusuf Pradnya Darpita    | G64190049 | Front End Engineer |
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 __
 ## About PlantZo
@@ -60,22 +55,22 @@ __
 User kami melingkupi seluruh masyarakat yang tertarik dalam dunia tanaman terutama tanaman hias sebagai pembeli.
 
 ### Spesifikasi Teknis Pengembang
-•	Software
-Framework : React, Tailwind
+- Software
+...Framework : React, Tailwind
 Database : MySQL
 Server : Apache
 Text Editor/IDE : Visual Studio Code
-•	Hardware
-Processor : minimal 1 GHz
+- Hardware
+...Processor : minimal 1 GHz
 RAM : 1 GB
 Graphic Card : DirectX 9 dengan drive WDDM 1.0
-•	Tech Stack
+- Tech Stack
 Version Control dan Collaboration Platform : Github dan Trello
 Teknologi : CSS/HTML, javascript, dan python
 
 __
 ## User Analysis
-•	User Story
+- User Story
 Need-to-develop:
 1. Sebagai pengguna awal, agar dapat menggunakan aplikasi dengan lebih leluasa, saya dapat mendaftarkan diri dengan memasukan username, email, dan password.
 2. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal dan data pengguna tetap tersimpan, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
@@ -95,11 +90,11 @@ Nice-to-develop:
 
 __ 
 ## Hasil dan Pembahasan
-•	Use Case Diagram adalah 
+- Use Case Diagram adalah 
  
 
 
-•	Activity Diagram adalah
+- Activity Diagram adalah
  
 
  
@@ -108,11 +103,11 @@ __
  
 
  
-•	ERD adalah
+- ERD adalah
  
-•	Class Diagram adalah
+- Class Diagram adalah
  
-•	Arsitektur Diagram 
+- Arsitektur Diagram 
  
 
 __
