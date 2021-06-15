@@ -56,21 +56,24 @@ User kami melingkupi seluruh masyarakat yang tertarik dalam dunia tanaman teruta
 
 ### Spesifikasi Teknis Pengembang
 - Software
+
 Framework : React, Tailwind
 Database : MySQL
 Server : Apache
 Text Editor/IDE : Visual Studio Code
 - Hardware
+
 Processor : minimal 1 GHz
 RAM : 1 GB
 Graphic Card : DirectX 9 dengan drive WDDM 1.0
 - Tech Stack
+
 Version Control dan Collaboration Platform : Github dan Trello
 Teknologi : CSS/HTML, javascript, dan python
 
 __
 ## User Analysis
-- User Story
+ **User Story**
 - Need-to-develop:
 1. Sebagai pengguna awal, agar dapat menggunakan aplikasi dengan lebih leluasa, saya dapat mendaftarkan diri dengan memasukan username, email, dan password.
 2. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal dan data pengguna tetap tersimpan, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
