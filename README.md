@@ -191,8 +191,9 @@ Feature and Page maybe (img)
 __
 ## Testing (Test Case)
 
-Scenario	Prequisite	Steps	Expected Result	Actual Result	Status
-User mendaftar dengan data yang valid	User mengakses website	User mengakses halaman login, akses halaman daftar, lakukan pendaftaran dengan memasukkan nama, email, password, klik daftar	Pendaftaran berhasil, user dialihkan ke halaman dashboard	As expected	Pass✅
+| Scenario | Prequisite	| Steps | Expected Result | Actual Result | Status |
+| -------- | ---------- | ----- | --------------- | ------------- | ------ |
+| User mendaftar dengan data yang valid | User mengakses website | User mengakses halaman login, akses halaman daftar, lakukan pendaftaran dengan memasukkan nama, email, password, klik daftar	Pendaftaran berhasil, user dialihkan ke halaman dashboard | As expected | Pass✅ |
 User login dengan akun yang valid	User telah mendaftar di web sebelumnya	User mengakses halaman login, masukkan email dan password, klik masuk	Login berhasil dan user dialihkan ke halaman dashboard	As expected	Pass✅
 User memasukan produk ke keranjang	User telah login ke website PlantZo	User mengakses halaman dashboard dan memilih tanaman yang ingin dibeli lalu menekan tombol tambah ke keranjang	Proses berhasil dan user tetap berada di halaman produk	As expected	Pass✅
 User membayar tagihan di cart	User telah login dan mengakses halaman cart	User mencentang produk yang ingin dibeli dan menekan tombol checkout lalu diarahkan ke halaman checkout dan menekan tombol bayar sekarang	User berhasil membayar produk	As expected	Pass✅
@@ -214,9 +215,9 @@ User mengganti alamat
 
 __
 ## Project Documentation
-•	Github: https://github.com/L29/PlantZo
-•	Trello: https://trello.com/b/W2FgpkPa/development
-•	Google Site: https://sites.google.com/apps.ipb.ac.id/plantzo-rpl/team
+- Github: https://github.com/L29/PlantZo
+- Trello: https://trello.com/b/W2FgpkPa/development
+- Google Site: https://sites.google.com/apps.ipb.ac.id/plantzo-rpl/team
 
 __
 ## Saran untuk pengembangan selanjutnya
