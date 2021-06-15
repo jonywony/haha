@@ -1,6 +1,6 @@
-Semangattt 
+
 __
-## Planzoo
+## PlantZo
  
 
 __
@@ -22,15 +22,15 @@ __
 
 __
 ## Tim Pengembang PlantZo
-	Nama				NIM		Role
-1.	Linuz Tri Erianto			G64190027	Back End Engineer
-2.	Yuritma Dwi Ardita Putri 	G64190048	Front End Engineer
-3.	Muhammad Adjie Bimaditya	G64190062	Front End Engineer
-4.	Yusuf Pradnya Darpita		G64190049	Front End Engineer 
+|No.|	|Nama|				|NIM|		|Role|
+|1.|	|Linuz Tri Erianto|		|G64190027|	|Back End Engineer|
+|2.|	|Yuritma Dwi Ardita Putri| 	|G64190048|	|Front End Engineer|
+|3.|	|Muhammad Adjie Bimaditya|	|G64190062|	|Front End Engineer|
+|4.|	|Yusuf Pradnya Darpita|		|G64190049|	|Front End Engineer|
 
 
 __
-## About Planzoo
+## About PlantZo
  
 PlantZo adalah aplikasi e-marketplace berbasis web yang menghubungkan antara penjual tanaman hias dan pembeli potensial 
 
